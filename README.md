@@ -1,2 +1,2 @@
 # ETM-Platform
-Progetto per la gestione delle tesi di una università
+Sviluppo di applicazione web per la gestione delle tesi di una università
